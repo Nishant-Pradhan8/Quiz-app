@@ -19,13 +19,13 @@ export const DataProvider = ({children})=>{
     function iconImgSrc(selection){
         let imgSrc = ""
         if(selection==="HTML"){
-            imgSrc = "/images/icon-html.svg";
+            imgSrc = "quiz-app/images/icon-html.svg";
         } else if(selection==="JavaScript"){
-            imgSrc =  "/images/icon-js.svg";
+            imgSrc =  "quiz-app/images/icon-js.svg";
         } else if(selection==="PHP"){
-            imgSrc =  "/images/web.png";
+            imgSrc =  "quiz-app/images/web.png";
         } else{
-            imgSrc = "/images/mysql.png";
+            imgSrc = "quiz-app/images/mysql.png";
         }
         return imgSrc;
     }

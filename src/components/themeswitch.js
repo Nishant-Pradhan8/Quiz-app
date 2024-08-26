@@ -22,9 +22,9 @@ function ThemeSwitch() {
       </div>
       <div className="toggle-btn">
         {theme === "Light" ? (
-          <img className="theme-icon" alt="dark mode sun" src="/images/icon-sun-dark.svg" />
+          <img className="theme-icon" alt="dark mode sun" src="quiz-app/images/icon-sun-dark.svg" />
         ) : (
-          <img className="theme-icon"  alt="light mode sun" src="/images/icon-sun-light.svg" />
+          <img className="theme-icon"  alt="light mode sun" src="quiz-app/images/icon-sun-light.svg" />
         )}
         <input
           onClick={() =>
@@ -37,9 +37,9 @@ function ThemeSwitch() {
           <span className="toggle-ball"></span>
         </label>
         {theme === "Light" ? (
-          <img className="theme-icon" alt="dark mode moon" src="/images/icon-moon-dark.svg" />
+          <img className="theme-icon" alt="dark mode moon" src="quiz-app/images/icon-moon-dark.svg" />
         ) : (
-          <img className="theme-icon"  alt="light mode moon" src="/images/icon-moon-light.svg" />
+          <img className="theme-icon"  alt="light mode moon" src="quiz-app/images/icon-moon-light.svg" />
         )}
       </div>
     </header>
