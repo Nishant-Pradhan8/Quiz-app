@@ -14,7 +14,7 @@ function RightSplit() {
         <div className="img-wrapper html">
           <img
             className="png-icon"
-            src="quiz-app/images/icon-html.svg"
+            src="./images/icon-html.svg"
             alt="HTML icon"
           />
         </div>
@@ -29,7 +29,7 @@ function RightSplit() {
         <div className="img-wrapper icon-background">
           <img
             className="png-icon"
-            src="quiz-app/images/icon-js.svg"
+            src="./images/icon-js.svg"
             alt="JavaScrip icon"
           />
         </div>
@@ -42,7 +42,7 @@ function RightSplit() {
         to="/preference"
       >
         <div className="img-wrapper icon-background">
-          <img className="png-icon" src="quiz-app/images/web.png" alt="Php icon" />
+          <img className="png-icon" src="./images/web.png" alt="Php icon" />
         </div>
         <h3 className="card-heading">PHP</h3>
       </Link>
@@ -53,7 +53,7 @@ function RightSplit() {
         to="/preference"
       >
         <div className="img-wrapper icon-background">
-          <img className="png-icon" src="quiz-app/images/mysql.png" alt="sql icon" />
+          <img className="png-icon" src="./images/mysql.png" alt="sql icon" />
         </div>
         <h3 className="card-heading">MySQL</h3>
       </Link>

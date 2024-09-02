@@ -199,7 +199,7 @@ function RightSplitQuiz() {
                   style={{
                     visibility: ansSubmit === "True" ? "visible" : "hidden",
                   }}
-                  src="quiz-app/images/icon-correct.svg"
+                  src="./images/icon-correct.svg"
                 />
               ) : (
                 <img
@@ -207,7 +207,7 @@ function RightSplitQuiz() {
                   style={{
                     visibility: ansSubmit === "True" ? "visible" : "hidden",
                   }}
-                  src="quiz-app/images/icon-incorrect.svg"
+                  src="./images/icon-incorrect.svg"
                 />
               )}
             </label>
@@ -233,7 +233,7 @@ function RightSplitQuiz() {
         style={{ display: warning ? "flex" : "none" }}
         className="warning-wrapper"
       >
-        <img alt="error-icon" src="quiz-app/images/icon-error.svg" />
+        <img alt="error-icon" src="./images/icon-error.svg" />
         <p className="warning">Please Select an Option</p>
       </div>
     </div>
