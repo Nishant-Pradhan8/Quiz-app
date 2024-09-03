@@ -11,3 +11,11 @@
     </ul>
     <h2>Demo</h2>
     <p>You can check out the live demo of the app <a href="https://nishant-pradhan8.github.io/quiz-app/">here</a>.</p>
+    <h2>Technologies Used</h2>
+<ul>
+    <li><strong>React:</strong> For building the user interface.</li>
+    <li><strong>JavaScript (ES6+):</strong> Core language for developing the app's logic.</li>
+    <li><strong>CSS:</strong> Styling the application.</li>
+    <li><strong>HTML:</strong> Markup language for the app's structure.</li>
+    <li><strong>Frontend Mentor:</strong> Provided the design and challenge.</li>
+</ul>
