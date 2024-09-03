@@ -8,6 +8,7 @@
         <li><strong>Multiple Categories:</strong> Users can choose from different categories of questions.</li>
         <li><strong>Score Tracking:</strong> Users can see their score at the end of the quiz.</li>
         <li><strong>Responsive Design:</strong> The app is fully responsive and works on all device sizes.</li>
+        <li><strong>Theme Switch:</strong>Users can toggle between light and dark mode as per their preferences.</li>
     </ul>
     <h2>Demo</h2>
     <p>You can check out the live demo of the app <a href="https://nishant-pradhan8.github.io/quiz-app/">here</a>.</p>
